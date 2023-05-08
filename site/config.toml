@@ -26,7 +26,7 @@ shamsiDateFormat = "d MMM ماه yyyy"
 DefaultContentLanguage = "fa"
 
 [params]
-LatinName = "Feedium"
+LatinName = "fiiber"
 color = "Blue"
 copyright = "کلیه مطالب این وبلاگ براساس گواهی کریتیو کامنز ۴.۰ (BY-NC-SA) منتشر می‌شود."
 cover = "/uploads/cover-default.png"
@@ -36,26 +36,26 @@ htmlDirection = "rtl"
 languageCode = "fa-IR"
 pageCover = "/uploads/page-default.png"
 paginate = 6
-tags = "Feedium, فاییبر"
+tags = "fiiber, فاییبر"
 
 [params.author]
 email = "admin@fiiber.ir"
-name = "Feedium"
+name = "fiiber"
 
 [params.link]
 comment = "true"
-disqusUser = "feedium"
-facebooUser = "pagename"
+disqusUser = "fiiber"
+facebooUser = "fiiber"
 facebook = "false"
 github = "true"
 githubUser = "feedium"
 instagram = "false"
-instagramUser = "feediumdotnet"
+instagramUser = "fiiber"
 rss = "true"
 telegram = "true"
-telegramUser = "feediumdotnet"
+telegramUser = "fiiber"
 twitter = "true"
-twitterUser = "feediumdotnet"
+twitterUser = "fiiber"
 
 [sitemap]
 changefreq = "daily"
