@@ -1,5 +1,5 @@
-baseurl = "https://feedium.net"
-title = "فیدیوم"
+baseurl = "https://fiiber.ir"
+title = "فاییبر"
 layoutDir = "layouts"
 contentdir = "content"
 assetDir = "static"
@@ -31,15 +31,15 @@ color = "Blue"
 copyright = "کلیه مطالب این وبلاگ براساس گواهی کریتیو کامنز ۴.۰ (BY-NC-SA) منتشر می‌شود."
 cover = "/uploads/cover-default.png"
 description = "Params description"
-fullPersianName = "فیدیوم - تکنولوژی نجیب"
+fullPersianName = "فاییبر - تکنولوژی نجیب"
 htmlDirection = "rtl"
 languageCode = "fa-IR"
 pageCover = "/uploads/page-default.png"
 paginate = 6
-tags = "Feedium, فیدیوم"
+tags = "Feedium, فاییبر"
 
 [params.author]
-email = "admin@feedium.net"
+email = "admin@fiiber.ir"
 name = "Feedium"
 
 [params.link]

@@ -8,8 +8,8 @@ local_backend:
   
 media_folder: "site/content/uploads" # Folder where user uploaded files should go
 public_folder: "/uploads"
-site_url: https://feedium.net
-display_url: https://feedium.net
+site_url: https://fiiber.ir
+display_url: https://fiiber.ir
 # publish_mode: editorial_workflow
 
 

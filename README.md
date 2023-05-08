@@ -1,1 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d56d02f5-bcae-4c80-ab87-089bb1f6fe45/deploy-status)](https://app.netlify.com/sites/feediumblog/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b49c308-3afd-4bf4-ba8b-3595d1e96ab4/deploy-status)](https://app.netlify.com/sites/fiiber/deploys)
