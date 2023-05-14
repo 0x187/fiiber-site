@@ -23,7 +23,7 @@ header:
 config:
   authorVisibility: 'true'
   color: default
-  comment: 'false'
+  comment: 'true'
   coverVisibility: 'true'
   post: true
   related: 'true'
