@@ -10,8 +10,8 @@ date: '2023-05-14'
 url: posts/stram-apps
 author: salar
 topic:
-  - Other
-section: Other
+  - android
+section: android
 header:
   cover:
     coverIMG: /uploads/gamer-girl.jpg
