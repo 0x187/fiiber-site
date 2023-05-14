@@ -9,7 +9,7 @@ description: >-
   جهانی «سلامت روان»، تصمیم گرفتم از دلیل علاقه‌ام به تکنولوژی و کمکی که
   تکنولوژی به من در زندگیم کرده بنویسم.
 date: '2022-02-02'
-url: posts/hootanlovestech
+url: posts/lovestech
 author: baraary
 topic:
   - personal
