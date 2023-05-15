@@ -14,7 +14,8 @@ topic:
 section: linux
 header:
   cover:
-    coverIMG: /uploads/bgp_hijack.png
+    coverIMG: >-
+      /uploads/moz_explains_internet-browser-search_blog_header_1200x800-1200x800.jpg
   summary: >-
     بیشتر کاربران اینترنت با استفاده از مرورگرهای وب، مانند Firefox, Chrome از
     اینترنت استفاده می‌کنند. پروتکل اصلی در این ارتباطات وب، HTTP است. در دهه
