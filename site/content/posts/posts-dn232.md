@@ -22,8 +22,8 @@ header:
     HTTPS در واقع HTTP است که با یک لایه امنیتی و رمزگذاری محافظت می‌شود.
 config:
   authorVisibility: 'true'
-  color: default
-  comment: 'false'
+  color: Blue
+  comment: 'true'
   coverVisibility: 'true'
   post: true
   related: 'true'
