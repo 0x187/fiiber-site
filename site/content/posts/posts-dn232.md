@@ -12,7 +12,7 @@ author: default-author
 topic:
   - personal
   - test
-section: personal
+section: test
 header:
   cover:
     coverIMG: >-
