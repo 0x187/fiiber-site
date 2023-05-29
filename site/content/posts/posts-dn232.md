@@ -11,6 +11,7 @@ url: posts/DN232
 author: default-author
 topic:
   - personal
+  - test
 section: personal
 header:
   cover:
