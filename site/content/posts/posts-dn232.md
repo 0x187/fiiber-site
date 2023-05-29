@@ -8,7 +8,7 @@ description: >-
   در واقع HTTP است که با یک لایه امنیتی و رمزگذاری محافظت می‌شود.
 date: '2023-05-15'
 url: posts/DN232
-author: salar
+author: default-author
 topic:
   - linux
 section: linux
