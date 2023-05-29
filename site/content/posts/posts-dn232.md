@@ -10,8 +10,8 @@ date: '2023-05-15'
 url: posts/DN232
 author: default-author
 topic:
-  - linux
-section: linux
+  - Data-structure
+section: Data-structure
 header:
   cover:
     coverIMG: >-
