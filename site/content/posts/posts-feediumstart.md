@@ -10,8 +10,8 @@ date: '2022-01-11'
 url: posts/FiiberStart
 author: default-author
 topic:
-  - Handout
-section: Handout
+  - site
+section: site
 header:
   cover:
     coverIMG: /uploads/cover2.png
