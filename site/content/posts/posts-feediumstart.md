@@ -8,7 +8,7 @@ description: >-
   … باشه.
 date: '2022-01-11'
 url: posts/FiiberStart
-author: baraary
+author: default-author
 topic:
   - site
 section: site
