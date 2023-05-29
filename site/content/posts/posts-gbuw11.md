@@ -9,7 +9,7 @@ description: >-
   «خوب، بد، زشت» برای آخرین نسخه سیستم‌عامل مایکروسافت ایده خوبی باشه.
 date: '2023-05-13'
 url: posts/GBUW11
-author: baraary
+author: default-author
 topic:
   - windows
 section: windows
