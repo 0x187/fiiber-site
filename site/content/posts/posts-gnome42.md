@@ -7,7 +7,7 @@ description: >-
   libadwaita آغاز کرد. 
 date: '2023-05-10'
 url: posts/gnome42
-author: baraary
+author: default-author
 topic:
   - linux
 section: linux
