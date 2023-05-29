@@ -35,7 +35,7 @@ fullPersianName = "محبت - استاد"
 htmlDirection = "rtl"
 languageCode = "fa-IR"
 pageCover = "/uploads/page-default.png"
-paginate = 6
+paginate = 3
 tags = "mohebbat, محبت"
 
 [params.author]
