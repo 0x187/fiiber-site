@@ -10,7 +10,7 @@ description: >-
   تکنولوژی به من در زندگیم کرده بنویسم.
 date: '2023-05-01'
 url: posts/hootanlovestech
-author: baraary
+author: default-author
 topic:
   - personal
 section: personal
