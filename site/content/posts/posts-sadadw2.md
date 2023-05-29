@@ -7,7 +7,7 @@ url: posts/sadadw2
 author: default-author
 topic:
   - android
-section: DataStructure
+section: android
 header:
   cover:
     coverIMG: /uploads/cover-default.png
