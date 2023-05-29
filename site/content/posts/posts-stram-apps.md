@@ -8,7 +8,7 @@ description: >
   نرم‌افزارهای استریم رایگان را معرفی می‌کنیم.
 date: '2023-05-14'
 url: posts/stram-apps
-author: salar
+author: default-author
 topic:
   - android
 section: android
