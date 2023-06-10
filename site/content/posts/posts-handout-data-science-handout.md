@@ -1,7 +1,7 @@
 ---
 title: جزوه ساختمان داده
 subtitle: جزوه درس ساختمان داده
-description: جزوه ساختمان داده
+description: جزوه ساختمان داده برای دانشجویان سال اولی
 date: '2023-06-10'
 url: posts/handout/data-science-handout
 author: default-author
@@ -10,7 +10,7 @@ topic:
 section: handout
 header:
   cover:
-    coverIMG: /uploads/cover-default.png
+    coverIMG: /uploads/1_e1haigb9k4k89psfzgm-pw.jpg
   summary: جزوه ساختمان داده
 config:
   authorVisibility: 'true'
