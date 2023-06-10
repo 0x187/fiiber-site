@@ -12,8 +12,8 @@ date: '2023-05-01'
 url: posts/hootanlovestech
 author: default-author
 topic:
-  - personal
-section: personal
+  - other
+section: other
 header:
   cover:
     coverIMG: /uploads/techlove.jpg
