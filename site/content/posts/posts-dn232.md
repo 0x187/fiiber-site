@@ -11,7 +11,7 @@ url: posts/DN232
 author: default-author
 topic:
   - dataScience
-section: personal
+section: dataScience
 header:
   cover:
     coverIMG: >-
