@@ -23,8 +23,18 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video controls width="480">
+<html>
 
-\    <source src="https://github.com/0x187/chert/raw/main/images/a.webm" type="video/webm">
+   <head>
 
-</video>
+<title>HTML5 Live Streaming Test</title>
+
+</head>
+
+<body>
+
+<video width="100%" video="100%" style="width:100%, height:100%" controls="controls" src="https://github.com/0x187/chert/raw/main/images/a.webm"></video>
+
+</body>
+
+</html>
