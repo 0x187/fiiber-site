@@ -10,7 +10,7 @@ topic:
 section: other
 header:
   cover:
-    coverIMG: /uploads/iot.png
+    coverIMG: /uploads/draft-a-post.jpg
   summary: چگونه پست بنویسیم
 config:
   authorVisibility: 'true'
