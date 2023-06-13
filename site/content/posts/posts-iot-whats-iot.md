@@ -11,11 +11,11 @@ description: >-
   بهبود عملکرد در بسیاری از زمینه‌های مختلف مانند سلامت، حمل و نقل، صنعت و خانگی
   شده است.
 date: '2023-06-13'
-url: posts/iot/whats-iot
+url: posts/iot/iot
 author: default-author
 topic:
-  - IOT
-section: IOT
+  - iot
+section: iot
 header:
   cover:
     coverIMG: /uploads/iot.png
@@ -31,7 +31,7 @@ header:
 config:
   authorVisibility: 'true'
   color: default
-  comment: 'false'
+  comment: 'true'
   coverVisibility: 'true'
   post: true
   related: 'true'
