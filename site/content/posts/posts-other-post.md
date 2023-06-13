@@ -14,8 +14,8 @@ header:
   summary: چگونه پست بنویسیم
 config:
   authorVisibility: 'true'
-  color: default
-  comment: 'false'
+  color: Blue
+  comment: 'true'
   coverVisibility: 'true'
   post: true
   related: 'true'
@@ -23,8 +23,8 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video controls width="100%">
+<video width="100%" controls>
 
- <source src="https://github.com/0x187/chert/raw/main/images/a.mp4" type="video/mp4">
+<source src="https://github.com/0x187/chert/raw/main/images/output.mp4" type="video/mp4">
 
 </video>
