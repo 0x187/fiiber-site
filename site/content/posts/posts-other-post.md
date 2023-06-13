@@ -23,8 +23,8 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video  width="100%" video="100%" style="width:100%, height:100%" src="https://github.com/0x187/chert/raw/main/images/a.webm" type="video/webm">
+<video controls width="480">
 
-  <p>Your browser cannot play the provided video file.</p>
+\    <source src="https://github.com/0x187/chert/raw/main/images/a.webm" type="video/webm">
 
 </video>
