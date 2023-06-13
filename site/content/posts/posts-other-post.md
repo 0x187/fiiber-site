@@ -23,10 +23,24 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video width="100%" autoplay>
+<video controls width="250">
 
-  <source src="https://github.com/0x187/chert/raw/main/images/a.webm" type="video/webm">
+\    <source src="https://github.com/0x187/chert/raw/main/images/a.webm" type="video/webm">
 
-Your browser does not support the video tag.
+
+
+\    <source src="/media/cc0-videos/flower.mp4" type="video/mp4">
+
+
+
+\    Download the
+
+\    <a href="/media/cc0-videos/flower.webm">WEBM</a>
+
+\    or
+
+\    <a href="/media/cc0-videos/flower.mp4">MP4</a>
+
+\    video.
 
 </video>
