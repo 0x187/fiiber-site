@@ -10,7 +10,7 @@ topic:
 section: other
 header:
   cover:
-    coverIMG: /uploads/how-to-write-a-good-blog-post.png
+    coverIMG: /uploads/draft-a-post.jpg
   summary: چگونه پست بنویسیم
 config:
   authorVisibility: 'true'
@@ -23,8 +23,8 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video width="100%" autoplay="autoplay" controls="controls">
+<video width="100%" controls>
 
-<source src="https://github-production-user-asset-6210df.s3.amazonaws.com/64494086/245747733-424f2213-ef7d-4d70-b0c5-0736f9ee3d51.mp4" type="video/mp4">
+<source src="https://mohebbat.eu.org/uploads/video.mp4" type="video/mp4">
 
 </video>
