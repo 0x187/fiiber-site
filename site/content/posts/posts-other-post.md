@@ -23,7 +23,7 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video width="100%" controls>
+<video width="1280" controls>
 
 <source src="https://github.com/0x187/chert/raw/main/images/a%20(1).mp4" type="video/mp4">
 
