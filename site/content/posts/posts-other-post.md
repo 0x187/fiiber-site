@@ -23,8 +23,10 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video autoplay="autoplay" controls="controls">
+<video width = "500" height = "300" controls>
 
-\    <source src="http://172.104.228.49/uni/files/video.mp4" type="video/mp4"  />
+\    <source src = "http://172.104.228.49/uni/files/video.mp4" type = "video/mp4">
+
+\    This browser doesn't support video tag.
 
 </video>
