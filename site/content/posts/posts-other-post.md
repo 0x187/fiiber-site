@@ -23,8 +23,8 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video width="1280" controls>
+<video width="auto" height="400px" autoplay="" loop="" muted="">
 
-<source src="https://github.com/0x187/chert/raw/main/images/a%20(1).mp4" type="video/mp4">
+   	<source src="https://github.com/0x187/chert/raw/main/images/a%20(1).mp4"  type="video/mp4">
 
 </video>
