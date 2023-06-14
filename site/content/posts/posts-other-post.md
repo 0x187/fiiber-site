@@ -25,6 +25,6 @@ config:
 
 <video width="100%" controls>
 
-<source src="https://mohebbat.eu.org/uploads/video.mp4" type="video/mp4">
+<source src="https://mohebbat.eu.org/uploads/output.mp4" type="video/mp4">
 
 </video>
