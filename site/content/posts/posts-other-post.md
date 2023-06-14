@@ -25,6 +25,6 @@ config:
 
 <video width="100%" controls>
 
-<source src="https://mohebbat.eu.org/uploads/output.mp4" type="video/mp4">
+<source src="https://github.com/0x187/chert/raw/main/images/a%20(1).mp4" type="video/mp4">
 
 </video>
