@@ -25,6 +25,6 @@ config:
 
 <video width="100%" controls>
 
-<source src="https://github.com/0x187/chert/raw/main/images/output.mp4" type="video/mp4">
+<source src="https://github-production-user-asset-6210df.s3.amazonaws.com/64494086/245747733-424f2213-ef7d-4d70-b0c5-0736f9ee3d51.mp4" type="video/mp4">
 
 </video>
