@@ -10,7 +10,7 @@ topic:
 section: other
 header:
   cover:
-    coverIMG: /uploads/draft-a-post.jpg
+    coverIMG: /uploads/how-to-write-a-good-blog-post.png
   summary: چگونه پست بنویسیم
 config:
   authorVisibility: 'true'
@@ -23,10 +23,10 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video width = "500" height = "300" controls>
+<video width = "1280" height = "720" controls>
 
-\    <source src = "http://172.104.228.49/uni/files/video.mp4" type = "video/mp4">
+<source src = "https://github.com/0x187/chert/raw/main/images/video.mp4" type = "video/mp4">
 
-\    This browser doesn't support video tag.
+This browser doesn't support video tag.
 
 </video>
