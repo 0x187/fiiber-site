@@ -23,10 +23,12 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<video width = "1280" height = "720" controls>
+<body>
 
-<source src = "https://github.com/0x187/chert/raw/main/images/video.mp4" type = "video/mp4">
+<video controls autoplay>
 
-This browser doesn't support video tag.
+ <source src="https://raw.githubusercontent.com/0x187/chert/main/images/video.mp4" type="video/mp4">
 
 </video>
+
+</body>
