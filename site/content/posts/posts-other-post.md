@@ -23,12 +23,4 @@ config:
 ---
 در این ویدیو آموزشی، نمایش می‌دهیم چگونه در این سایت پست بنویسیم!
 
-<body>
-
-<video controls autoplay>
-
- <source src="https://raw.githubusercontent.com/0x187/chert/main/images/video.mp4" type="video/mp4">
-
-</video>
-
-</body>
+<video src="https://raw.githubusercontent.com/0x187/chert/main/images/video.webm"></video>
